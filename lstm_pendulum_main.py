@@ -199,4 +199,4 @@ if Animate:
     
         
     plt.show()
-    # ani_t.save('anim.gif', dpi=80, writer='imagemagick')
+    ani.save('anim.gif', dpi=80, writer='imagemagick')
